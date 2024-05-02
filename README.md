@@ -1,4 +1,4 @@
-# ga4-analysis-datasets
+# GA4 Analysis: A Hands-On Guide with Datasets
  
 This repository contains datasets used in the "Exploring GA4 Analysis: A Hands-On Guide with Datasets" blog post. The datasets include user behavior, traffic sources, and page engagement data extracted from Google Analytics 4. Data enthusiasts can utilize these datasets to practice GA4 analysis techniques demonstrated in the blog post, gaining hands-on experience interpreting and visualizing analytics data.
 
